@@ -1,0 +1,2 @@
+# Stock-Market-Direction-Predictor-using-Machine-Learning-Algorithms
+Machine Learning project to predict next-day stock price direction (Up/Down) using historical market data. Implements multiple classification models including Logistic Regression, Random Forest, SVC, and Gradient Boosting with feature engineering, hyperparameter tuning, model evaluation, and Streamlit deployment for real-time prediction.
